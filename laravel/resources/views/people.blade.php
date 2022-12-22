@@ -1,0 +1,1 @@
+<h1> people {{$name}} </h1>
